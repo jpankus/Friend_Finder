@@ -209,6 +209,7 @@
                     $("#matchName").text(data.name);
                     $('#matchImg').attr("src", data.photo);
                     // Show the modal with the best match
+					console.log(data);
                     $("#resultsModal").modal('toggle');
                     // clear the input fields in the form
                     $("#name").val("");
