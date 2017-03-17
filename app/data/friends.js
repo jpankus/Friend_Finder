@@ -8,15 +8,15 @@ var friends = [
 
 },{
     "name": "Guitar Bill",
-    "photo":"https://pbs.twimg.com/profile_images/650100474226458625/-nngF2Y1.jpg",
+    "photo": "../bill2.jpg",
     "scores": [5,4,3,1,1,4,4,5,3,5]
 },{
     "name": "Happy Bill",
-    "photo":"bill3.jpg",
+    "photo":"../../bill3.jpg",
     "scores": [5,5,5,3,2,1,1,2,3,5]
 },{
     "name": "Groundhog Bill",
-    "photo":"bill4.jpg",
+    "photo":"./bill4.jpg",
     "scores": [5,5,3,2,2,1,1,2,3,5]
 },{
     "name": "Ghost Buster Bill",
