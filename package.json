@@ -1,0 +1,30 @@
+{
+  "name": "friend_finder",
+  "version": "1.0.0",
+  "description": "Friend Finder Node",
+  "main": "apiRoutes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpankus/Friend_Finder.git"
+  },
+  "keywords": [
+    "friend",
+    "finder"
+  ],
+  "author": "Jessica Pankus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpankus/Friend_Finder/issues"
+  },
+  "homepage": "https://github.com/jpankus/Friend_Finder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mysql": "^2.13.0",
+    "path": "^0.12.7"
+  }
+}
